@@ -1,0 +1,20 @@
+.bg-img1 {
+  width: 500px;
+  height: 500px;
+  background-image: url("../img/banner1.jpg");
+}
+
+.bg-img2 {
+  width: 500px;
+  height: 500px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../img/banner1.jpg");
+}
+.bg-img3 {
+  width: 500px;
+  height: 500px;
+  background-color: #000;
+  background: cover;
+  background-image: url("../img/banner1.jpg");
+}
